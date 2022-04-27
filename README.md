@@ -12,8 +12,7 @@ This repository is an accompaniment to the research article titled, "Using Deep 
 ### Code
 ```
 cd /directory/where/you/want/the/code
-# with UCSF GitHub, you have to use SSH connection
-git clone git@git.ucsf.edu:rauschecker-sugrue-labs/infant-brain-age.git
+git clone git@github.com:gunvantc/infant-brain-age-public.git
 ```
 ### Python Environment
 A valid conda install is needed (Anaconda, Miniconda).
